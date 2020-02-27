@@ -9,6 +9,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\QuotesHistory\QuotesHistory.csproj" />
+      <ProjectReference Include="..\Sandbox\Sandbox.csproj" />
     </ItemGroup>
 
     <ItemGroup>
